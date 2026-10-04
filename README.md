@@ -1,2 +1,2 @@
 # X-ray-Detection
-High-performance X-ray object detection system using YOLO models for automated medical image analysis, bounding-box localization, and anomaly screening.
+Custom YOLO-based object detection system built to identify and classify 14 distinct disease classes in X-ray images.
