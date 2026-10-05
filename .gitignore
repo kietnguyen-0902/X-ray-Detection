@@ -1,0 +1,14 @@
+# Dataset
+raw_data/
+vinbigdata_yolo/
+vinbigdata_yolo_optimized/
+
+# Weights & Logs
+*.pt
+runs/
+wandb/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
